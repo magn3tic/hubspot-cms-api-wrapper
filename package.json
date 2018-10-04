@@ -1,0 +1,23 @@
+{
+  "name": "hubspot-cms-api-wrapper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node debug.js",
+    "test": "nyc mocha"
+  },
+  "author": "Colin McGraw",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "request": "^2.88.0",
+    "simple-rate-limiter": "^0.2.3"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "nyc": "^13.0.1"
+  }
+}
