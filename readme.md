@@ -4,4 +4,4 @@ A promise-based wrapper around Hubspot's COS/CMS related API's.
 
 ### Note
 
-This package is in early development and is not stable, refrain from using this for anything serious.
+This package is in early development and is not stable, refrain from using this for anything serious 🕺
